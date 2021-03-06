@@ -9,6 +9,7 @@ Dataset Description:- This is one of the biggest email data sources in the world
 ## Download Dataset
 
 Download a set of spam and ham actual emails. Each email is a separate plain text file. Unzip the compressed tar files, read the text and load it into a Pandas Dataframe. Convert the dataframe to a Pickle object.
+Link of data: http://www2.aueb.gr/users/ion/data/enron-spam/
 
 ## Clean the Dataset
 
